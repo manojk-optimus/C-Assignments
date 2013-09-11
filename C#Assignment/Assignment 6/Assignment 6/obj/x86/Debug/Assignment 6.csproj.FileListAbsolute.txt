@@ -1,0 +1,5 @@
+D:\Manoj\C#Assignment\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+D:\Manoj\C#Assignment\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+D:\Manoj\C#Assignment\Assignment 6\Assignment 6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manoj\C#Assignment\Assignment 6\Assignment 6\obj\x86\Debug\Assignment 6.exe
+D:\Manoj\C#Assignment\Assignment 6\Assignment 6\obj\x86\Debug\Assignment 6.pdb

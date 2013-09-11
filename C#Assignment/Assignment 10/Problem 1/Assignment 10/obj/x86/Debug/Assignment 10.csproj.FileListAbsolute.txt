@@ -1,0 +1,5 @@
+D:\Manoj\C#Assignment\Assignment 10\Problem 1\Assignment 10\bin\Debug\Assignment 10.exe
+D:\Manoj\C#Assignment\Assignment 10\Problem 1\Assignment 10\bin\Debug\Assignment 10.pdb
+D:\Manoj\C#Assignment\Assignment 10\Problem 1\Assignment 10\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manoj\C#Assignment\Assignment 10\Problem 1\Assignment 10\obj\x86\Debug\Assignment 10.exe
+D:\Manoj\C#Assignment\Assignment 10\Problem 1\Assignment 10\obj\x86\Debug\Assignment 10.pdb
