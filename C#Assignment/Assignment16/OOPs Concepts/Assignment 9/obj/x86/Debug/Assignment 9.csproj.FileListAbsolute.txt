@@ -1,0 +1,16 @@
+D:\Manoj\C#Assignment\Assignment 9\Assignment 9\bin\Debug\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment 9\Assignment 9\bin\Debug\Assignment 9.pdb
+D:\Manoj\C#Assignment\Assignment 9\Assignment 9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manoj\C#Assignment\Assignment 9\Assignment 9\obj\x86\Debug\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment 9\Assignment 9\obj\x86\Debug\Assignment 9.pdb
+D:\Manoj\C#Assignment\Assignment 9\OOPs Concepts\Assignment 9\obj\x86\Debug\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment 9\OOPs Concepts\Assignment 9\obj\x86\Debug\Assignment 9.pdb
+D:\Manoj\C#Assignment\Assignment 9\OOPs Concepts\Assignment 9\bin\Debug\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment 9\OOPs Concepts\Assignment 9\bin\Debug\Assignment 9.pdb
+D:\Manoj\C#Assignment\Assignment 9\OOPs Concepts\Assignment 9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\Assignment 9\obj\x86\Debug\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\Assignment 9\obj\x86\Debug\Assignment 9.pdb
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\Assignment 9\bin\Debug\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\Assignment 9\bin\Debug\Assignment 9.pdb
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\Assignment 9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\Assignment 9\bin\Debug\CustomException.pdb

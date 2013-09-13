@@ -1,0 +1,7 @@
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\bin\CustomException.dll
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\bin\CustomException.pdb
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\obj\Debug\ResolveAssemblyReference.cache
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\obj\Debug\CustomException.dll
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\obj\Debug\CustomException.pdb
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\bin\Assignment 9.exe
+D:\Manoj\C#Assignment\Assignment16\OOPs Concepts\CustomException\bin\Assignment 9.pdb
